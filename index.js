@@ -9,15 +9,6 @@ let age = 21;
 let gender = "male";
 let nationality = "Nigeria";
 
-let userName =
-  "My name is " +
-  name +
-  ", I'm " +
-  age +
-  " years old " +
-  "and I'm a " +
-  gender +
-  " from " +
-  nationality;
+let userName = `My name is ${name}, I'm ${age} years old and I'm a ${gender} from ${nationality}.`;
 
 console.log(userName);
