@@ -110,12 +110,12 @@ const web2Students = [
 
 // const totalScore = williams + deborah + nambam + mark + zakka;
 
-for (i of thing) {
-    
-}
-
 // console.log(`${arr[0].name} ${arr[1].name}`);
 // console.log(`${arr[0].outfit.skirt}`);
 // console.log(`${arr[0].outfit.shoes.airforce1[3].gender}`);
 
-console.log(totalScore);
+// console.log(totalScore);
+
+let a = "unicode".charCodeAt(1);
+// Print the integer value of 'A' (65)
+console.log(a);
