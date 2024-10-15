@@ -119,3 +119,4 @@ console.log(totalScore);
 let a = "unicode".charCodeAt(1);
 // Print the integer value of 'A' (65)
 console.log(a);
+
