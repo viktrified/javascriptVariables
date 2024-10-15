@@ -102,19 +102,19 @@ const web2Students = [
   },
 ];
 
-// let williams = web2Students[0].score + 20;
-// let deborah = web2Students[1].score + 20;
-// let nambam = web2Students[2].score + 20;
-// let mark = web2Students[3].score + 20;
-// let zakka = web2Students[4].score + 20;
+let williams = web2Students[0].score + 20;
+let deborah = web2Students[1].score + 20;
+let nambam = web2Students[2].score + 20;
+let mark = web2Students[3].score + 20;
+let zakka = web2Students[4].score + 20;
 
-// const totalScore = williams + deborah + nambam + mark + zakka;
+const totalScore = williams + deborah + nambam + mark + zakka;
 
-// console.log(`${arr[0].name} ${arr[1].name}`);
-// console.log(`${arr[0].outfit.skirt}`);
-// console.log(`${arr[0].outfit.shoes.airforce1[3].gender}`);
+console.log(`${arr[0].name} ${arr[1].name}`);
+console.log(`${arr[0].outfit.skirt}`);
+console.log(`${arr[0].outfit.shoes.airforce1[3].gender}`);
 
-// console.log(totalScore);
+console.log(totalScore);
 
 let a = "unicode".charCodeAt(1);
 // Print the integer value of 'A' (65)
